@@ -2,31 +2,29 @@
 
 ## Environment
 
-This document was created using **Visual Studio Code on Linux**.
+Those was created by **Visual Studio Code on Ubuntu**.
 
 ---
 
 ## How to Create a New Document on GitHub
 
-Follow the steps below to create a new document (folder + README) directly on GitHub:
+Follow the steps below to create a new document directly on GitHub:
 
-1. Open your GitHub repository
+1. Open GitHub repository
 2. Click **Add file**
 3. Select **Create new file**
 4. In the file name field, enter the path in the following format:
-
-
+documentname/README.md
 > GitHub will automatically create the folder `documentname`
-
-5. Add the content you want to the editor
-6. Click **Commit new file** to save your changes
+5. Add any content
+6. Click **Commit new file** to save changes
 
 ---
 
 ## Notes
 
 - Git does **not** track empty folders  
-- A folder must contain at least one file (e.g. `README.md`)
+- A folder must contain at least one file
 - Using `README.md` helps describe the purpose of each directory
 
 ---
